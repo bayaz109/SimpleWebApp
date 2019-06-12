@@ -18,5 +18,5 @@ steps:
     testResultsFiles: '**/TEST-*.xml'
     goals: 'package'
 
-hello world
-"hello world"
+
+# "hello world"
